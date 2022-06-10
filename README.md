@@ -3,14 +3,21 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet READ
 
 
 ## Installation
-Öncelikle projeyi klonlayın.  
-git clone <https://github.com/hurmuzz/kodluyoruzilkrepo.git>
+Öncelikle projeyi klonlayın. (Buraya sizin reponuzdan aldığınız link gelecek)
+
+```bash
+git clone https://github.com/hurmuzz/kodluyoruzilkrepo.git
+```
 
 ## Usage
 Projeyi clonladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
-[cd kodluyoruzilkrepo code .](https://github.com/hurmuzz/kodluyoruzilkrepo.git)
+```bash
+linux
+cd kodluyoruzilkrepo
+code .
+```
 
 ## Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
