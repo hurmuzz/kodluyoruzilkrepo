@@ -3,8 +3,8 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet READ
 
 
 ## Installation
-Öncelikle projeyi klonlayın.
-/n git clone<https://github.com/hurmuzz/kodluyoruzilkrepo>
+Öncelikle projeyi klonlayın.  
+git clone<https://github.com/hurmuzz/kodluyoruzilkrepo>
 
 ## Usage
 Projeyi clonladıktan sonra Visual Studio Code programında açınız.
